@@ -1,0 +1,23 @@
+[33mcommit 34ed92f239d27dade6ce26c7f28c82c01d15600b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Francesco-Plotegher <francesco.plotegher@marconirovereto.it>
+Date:   Thu Feb 13 08:26:22 2025 +0100
+
+    Update README.md
+
+[33mcommit b8d4a5fdd8f8802dd785e3d4f25bd09767fc5a9f[m
+Author: Francesco-Plotegher <francesco.plotegher@marconirovereto.it>
+Date:   Thu Feb 6 10:16:19 2025 +0100
+
+    docs: aggiungi esempi di markdown
+
+[33mcommit 7166136ef4bed2b5f9649ba371d0d66b28b597b0[m
+Author: Francesco-Plotegher <francesco.plotegher@marconirovereto.it>
+Date:   Thu Feb 6 10:13:11 2025 +0100
+
+    Update README.md
+
+[33mcommit 9e7db6e9054009bfd8b0e32b2bc01b722f12d1b3[m
+Author: Francesco-Plotegher <francesco.plotegher@marconirovereto.it>
+Date:   Thu Feb 6 10:02:58 2025 +0100
+
+    Initial commit
